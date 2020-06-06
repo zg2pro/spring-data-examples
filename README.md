@@ -1,3 +1,8 @@
+# I'm forking this project just so I can easily test my maven plugin against such big multimodule projects
+
+
+
+
 # Spring Data Examples
 
 [![Build Status](https://travis-ci.org/zg2pro/spring-data-examples.svg?branch=issue%2F%2313)](https://travis-ci.org/zg2pro/spring-data-examples)
